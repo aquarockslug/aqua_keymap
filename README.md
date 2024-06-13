@@ -2,6 +2,8 @@
 
 [For the chocofi keyboard](https://github.com/pashutk/chocofi)
 
+[keymap_diagram](aqua8.png)
+
 ## Compilation:
 - make sure qmk is ready `qmk setup`
 - create a symbolic link from the repo to qmk_firmware 
