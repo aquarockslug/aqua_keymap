@@ -9,4 +9,4 @@
 - create a symbolic link from this repo to qmk_firmware 
 `ln -s ~/aqua_keymap ~/qmk_firmware/keyboards/crkbd/keymaps/aqua_keymap`
 - run `./compile_script.sh aquaX.json`
-- install the new uf2 file onto the keyboard `qmk flash aquaX.uf2` 
+- install the new uf2 file onto the keyboard `qmk flash aqua_keymap.uf2` 
