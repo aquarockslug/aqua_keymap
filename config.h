@@ -1,3 +1,3 @@
 #pragma once
 #undef TAPPING_TERM
-#define TAPPING_TERM 500
+#define TAPPING_TERM 300
